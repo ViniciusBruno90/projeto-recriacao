@@ -1,0 +1,38 @@
+body,
+p {
+  font-family: "Open Sans", sans-serif;
+}
+
+#desk {
+  text-align: center;
+}
+
+#desk h1 {
+  font-family: "Dosis", sans-serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 500;
+  color: #3f3d56;
+}
+
+span {
+  color: #ee24ff;
+}
+
+#footer {
+  margin-top: 64px;
+  margin-bottom: 16px;
+}
+
+.line {
+  width: 391px;
+  border: 1px solid #eceff2;
+  height: 0px;
+  margin: 0 auto 16px;
+}
+
+#footer img {
+  position: fixed;
+  bottom: 0;
+  left: 25%;
+}
